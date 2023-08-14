@@ -1,0 +1,15 @@
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe.config
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.pdb
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\App.g.cs
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.cache
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.lref
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\MainWindow.baml
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.g.resources
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.Properties.Resources.resources
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.GenerateResource.cache
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.exe
+C:\Users\Changgeun\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.pdb
