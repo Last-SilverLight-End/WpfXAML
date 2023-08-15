@@ -1,0 +1,15 @@
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\bin\Debug\WpfCheckBox.exe.config
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\bin\Debug\WpfCheckBox.exe
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\bin\Debug\WpfCheckBox.pdb
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox.csproj.AssemblyReference.cache
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\MainWindow.g.cs
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\App.g.cs
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox_MarkupCompile.cache
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox_MarkupCompile.lref
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\MainWindow.baml
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox.g.resources
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox.Properties.Resources.resources
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox.csproj.GenerateResource.cache
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox.csproj.CoreCompileInputs.cache
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox.exe
+D:\WpfXAML\WpfCheckBox\WpfCheckBox\obj\Debug\WpfCheckBox.pdb
