@@ -1,0 +1,15 @@
+D:\WpfXAML\WpfImages\WpfImages\bin\Debug\WpfImages.exe.config
+D:\WpfXAML\WpfImages\WpfImages\bin\Debug\WpfImages.exe
+D:\WpfXAML\WpfImages\WpfImages\bin\Debug\WpfImages.pdb
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages.csproj.AssemblyReference.cache
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\MainWindow.g.cs
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\App.g.cs
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages_MarkupCompile.cache
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages_MarkupCompile.lref
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\MainWindow.baml
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages.g.resources
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages.Properties.Resources.resources
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages.csproj.GenerateResource.cache
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages.csproj.CoreCompileInputs.cache
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages.exe
+D:\WpfXAML\WpfImages\WpfImages\obj\Debug\WpfImages.pdb
