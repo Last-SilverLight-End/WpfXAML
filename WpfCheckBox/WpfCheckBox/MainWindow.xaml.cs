@@ -25,7 +25,8 @@ namespace WpfCheckBox
             InitializeComponent();
         }
 
-        /*private void cbCheese_Checked(object sender, RoutedEventArgs e)
+        /* 특정 부분만 지칭 할 경우에 진행
+         * private void cbCheese_Checked(object sender, RoutedEventArgs e)
         {
             lbCheese.Background = Brushes.Gray;
         }
@@ -35,6 +36,7 @@ namespace WpfCheckBox
             lbCheese.Background = Brushes.White;
         }*/
 
+        // 이벤트 이름을 같게 하여 진행
         private void cbParentCheckedChanged(object sender, RoutedEventArgs e)
         {
             bool newVal = (cbParent.IsChecked == true);
