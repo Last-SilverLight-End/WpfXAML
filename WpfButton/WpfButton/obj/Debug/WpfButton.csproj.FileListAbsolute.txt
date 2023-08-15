@@ -1,0 +1,15 @@
+D:\WpfXAML\WpfButton\WpfButton\bin\Debug\WpfButton.exe.config
+D:\WpfXAML\WpfButton\WpfButton\bin\Debug\WpfButton.exe
+D:\WpfXAML\WpfButton\WpfButton\bin\Debug\WpfButton.pdb
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton.csproj.AssemblyReference.cache
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\MainWindow.g.cs
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\App.g.cs
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton_MarkupCompile.cache
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton_MarkupCompile.lref
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\MainWindow.baml
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton.g.resources
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton.Properties.Resources.resources
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton.csproj.GenerateResource.cache
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton.csproj.CoreCompileInputs.cache
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton.exe
+D:\WpfXAML\WpfButton\WpfButton\obj\Debug\WpfButton.pdb
