@@ -1,0 +1,15 @@
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels.csproj.AssemblyReference.cache
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\App.g.cs
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels_MarkupCompile.cache
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\bin\Debug\WpfLabels.exe.config
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\bin\Debug\WpfLabels.exe
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\bin\Debug\WpfLabels.pdb
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\MainWindow.g.cs
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels_MarkupCompile.lref
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\MainWindow.baml
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels.g.resources
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels.Properties.Resources.resources
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels.csproj.GenerateResource.cache
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels.csproj.CoreCompileInputs.cache
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels.exe
+C:\Users\Changgeun\source\repos\WpfLabels\WpfLabels\obj\Debug\WpfLabels.pdb
