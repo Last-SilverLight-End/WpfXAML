@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfExpander.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfExpander"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Expander Expanded="Expander_Expanded">
+            <Expander.Header>
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="20" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Arc_de_triomphe_du_carrousel_in_Paris_France.jpg/500px-Arc_de_triomphe_du_carrousel_in_Paris_France.jpg"></Image>
+                    <TextBlock VerticalAlignment="Center">Click to</TextBlock>
+                </StackPanel>
+            </Expander.Header>
+            <StackPanel>
+                <Button>Click me</Button>
+                <DatePicker></DatePicker>
+                <TextBlock
+                TextWrapping="Wrap"
+                FontSize="20"
+                >
+                see that this is the text that will then be displayed. Now for this text block, I want to wrap the text. Because otherwise it will not look good. So text wrapping. Here I'm going to use wrap. Okay, so now it's going to wrap my text. I'm going to change the font size of it as well. To something like 20, for example. So it's a little bigger. Okay. Let's run this real quick to just see what this expander does for us. So there we are. We can click on this expander and it will display our data here. Now, the cool thing is the expander allows you to put content in it, which means you could put whatever you want in there.
+                </TextBlock>
+            </StackPanel>
+        </Expander>
+    </StackPanel>
+</Window>

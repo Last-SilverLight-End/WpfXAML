@@ -1,0 +1,15 @@
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\bin\Debug\WpfExpander.exe.config
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\bin\Debug\WpfExpander.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\bin\Debug\WpfExpander.pdb
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander.csproj.AssemblyReference.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\MainWindow.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\App.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander_MarkupCompile.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander_MarkupCompile.lref
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\MainWindow.baml
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander.g.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander.Properties.Resources.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander.csproj.GenerateResource.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander.csproj.CoreCompileInputs.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfExpander\WpfExpander\obj\Debug\WpfExpander.pdb
