@@ -1,0 +1,15 @@
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\bin\Debug\WpfMenuControl.exe.config
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\bin\Debug\WpfMenuControl.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\bin\Debug\WpfMenuControl.pdb
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl.csproj.AssemblyReference.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\MainWindow.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\App.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl_MarkupCompile.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl_MarkupCompile.lref
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\MainWindow.baml
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl.g.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl.Properties.Resources.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl.csproj.GenerateResource.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfMenuControl\WpfMenuControl\obj\Debug\WpfMenuControl.pdb
