@@ -1,0 +1,15 @@
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\bin\Debug\WpfContextMenu.exe.config
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\bin\Debug\WpfContextMenu.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\bin\Debug\WpfContextMenu.pdb
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu.csproj.AssemblyReference.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\MainWindow.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\App.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu_MarkupCompile.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu_MarkupCompile.lref
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\MainWindow.baml
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu.g.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu.Properties.Resources.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu.csproj.GenerateResource.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfContextMenu\WpfContextMenu\obj\Debug\WpfContextMenu.pdb
