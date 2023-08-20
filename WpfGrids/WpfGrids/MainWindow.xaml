@@ -1,0 +1,83 @@
+﻿<Window x:Class="WpfGrids.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGrids"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!-- 임의로 지정<Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200" />
+            <ColumnDefinition Width="200" />
+        </Grid.ColumnDefinitions>-->
+        
+        <!-- 비율로 하여 나눌 수 있음<Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.33*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>-->
+        
+        <!-- 전체에서 500 과 200 픽셀을 빼고 나머지에서 비율을 나눈다. 
+         <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500" />
+            <ColumnDefinition Width="0.67*" />
+            <ColumnDefinition Width="200" />-->
+        
+        <!-- auto가 있으면 필요할 때만 생성되여 비율이 나뉘어진다.
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="0"> Button 00 </Button>
+        <Button Grid.Column="1"> Button 01 </Button> -->
+
+        <!-- 전체 0.33에서 100만 차지한다. 나머지는 공백 
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.33*" />
+            <ColumnDefinition Width="0.33*" />
+            <ColumnDefinition Width="0.33*" />
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="0">Button 00</Button>
+        <Button Grid.Column="1">Button 01</Button>
+        <Button Width="100" Grid.Column="2">Button 02</Button>-->
+
+        <!-- Row Column 으로 하여 나누고 비율로 맞출 수 있다. 
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="0" Grid.Row="0">Button 00</Button>
+        <Button Grid.Column="1" Grid.Row="1">Button 01</Button>
+        <Button Grid.Column="1" Grid.Row="0">Button 02</Button>
+        <Button Grid.Column="1" Grid.Row="2">Button 03</Button>
+        <Button Width="100" Grid.Column="2" Grid.Row="2">Button 02</Button>-->
+        <!-- rowSpan, columnSpan 을 활용한 진행 -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                Background="AliceBlue">Button 00</Button>
+        <Button Grid.Column="0" Grid.Row="2">Button 02</Button>
+        <Button Grid.Column="1" Grid.Row="2">Button 05</Button>
+        <Button Grid.Column="2" Grid.Row="0">Button 06</Button>
+        <Button Grid.Column="2" Grid.Row="1" Background="Violet"
+                Grid.ColumnSpan="2" Grid.RowSpan="2">Button 07</Button>
+        <Button Grid.Column="3" Grid.Row="0">Button 09</Button>
+        
+    </Grid>
+</Window>
