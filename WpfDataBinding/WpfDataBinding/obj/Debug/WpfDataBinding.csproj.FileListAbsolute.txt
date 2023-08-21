@@ -1,0 +1,15 @@
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\bin\Debug\WpfDataBinding.exe.config
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\bin\Debug\WpfDataBinding.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\bin\Debug\WpfDataBinding.pdb
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding.csproj.AssemblyReference.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\App.g.cs
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding_MarkupCompile.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding_MarkupCompile.lref
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\MainWindow.baml
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding.g.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding.Properties.Resources.resources
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding.csproj.GenerateResource.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding.exe
+C:\Users\Changgeun\source\repos\WpfSeries\WpfDataBinding\WpfDataBinding\obj\Debug\WpfDataBinding.pdb
